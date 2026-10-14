@@ -89,8 +89,11 @@ just test
 just lint
 just test-integration
 just generate
-just check-docs
 just localize
+just check-docs
+just check-mappers
+just check-ffi
+just check-boundaries
 just bump patch
 just bump minor
 just bump major
